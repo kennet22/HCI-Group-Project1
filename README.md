@@ -1,4 +1,5 @@
 # HCI-Group-Project1
+
 **Smart Mirror**
 **Team members:**
 - Logan Powers
@@ -6,7 +7,8 @@
 - Terran King
 - Kennet Thurman
 
-Features:
+
+**Features:**
 - p5.js IDE
 - Time and date
 - Weather
