@@ -1,6 +1,7 @@
 # HCI-Group-Project1
 
 **Smart Mirror**
+
 **Team members:**
 - Logan Powers
 - Joshua Acosta
