@@ -4,17 +4,26 @@
 
 **Team members:**
 - Logan Powers
+  - News Feed
 - Joshua Acosta
+  - Quote generator
+  - Weather
 - Terran King
+  - Todo list
 - Kennet Thurman
+  - Time and date
+  
 
 
-**Features:**
-- p5.js IDE
-- Time and date
-- Weather
-- Todo list
-- Quote generator
+**Extra Features:**
+- p5.js
+- Camera mirror emulation
+- (optoional) Cordova PhoneGap
+
+
+
+
+
 - Music player
 - Trending on twitter
 
