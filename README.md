@@ -5,6 +5,7 @@
 **Team members:**
 - Logan Powers
   - News Feed
+  - Presentation Setup
 - Joshua Acosta
   - Quote generator
   - Weather
