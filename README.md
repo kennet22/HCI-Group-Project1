@@ -2,7 +2,7 @@
 
 **Smart Mirror**
 
-**Team members:**
+**Group 5 Team members:**
 - Logan Powers
   - News Feed
   - Presentation Setup
