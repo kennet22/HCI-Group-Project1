@@ -18,4 +18,4 @@
 - Music player
 - Trending on twitter
 
-[Inteface](C:\Users\Kennet Thurman\Desktop\TTU)
+[Inteface](https://github.com/kennet22/HCI-Group-Project1/blob/master/interfaceV1.jpg?raw=true)
