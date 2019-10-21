@@ -10,10 +10,10 @@
   - Weather
 - Terran King
   - Todo list
+  - Music player
 - Kennet Thurman
   - Time and date
-  
-
+  - Trending on twitter
 
 **Extra Features:**
 - p5.js
@@ -24,7 +24,7 @@
 
 
 
-- Music player
-- Trending on twitter
+
+
 
 ![Interface](https://github.com/kennet22/HCI-Group-Project1/blob/master/interfaceV1.jpg?raw=true)
