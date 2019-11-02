@@ -1,4 +1,4 @@
-# HCI-Group-Project1
+# HCI-Project-1
 
 **Smart Mirror**
 
@@ -15,11 +15,24 @@
 - Kennet Thurman
   - Time and date
   - Trending on twitter
+  - Created UI
 
-**Extra Features:**
-- p5.js
+**Implemented APIs**
+- Weather
+- News
+- Spotify
+- Todo List
+- Time and Date
+
+**Hardcoded content**
+- Twitter Feed
+- Quotes
+
+
+**Project Details:**
+- Uses p5.js
 - Camera mirror emulation
-- (optoional) Cordova PhoneGap
+
 
 
 
