@@ -1,6 +1,7 @@
 # HCI-Project-1
 
 **Smart Mirror**
+
 Goal: Develop a non-intrusive, informative bathroom appliance that will help everyone prepare for the day or stay in the loop!
 
 **Group 5 Team members:**
@@ -41,5 +42,8 @@ Goal: Develop a non-intrusive, informative bathroom appliance that will help eve
 
 
 
-
+**Prototype UI**
 ![Interface](https://github.com/kennet22/HCI-Group-Project1/blob/master/interfaceV1.jpg?raw=true)
+
+**Production UI**
+![UI]()
