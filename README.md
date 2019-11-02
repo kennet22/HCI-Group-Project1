@@ -23,7 +23,6 @@ Goal: Develop a non-intrusive, informative bathroom appliance that will help eve
 - Weather
 - News
 - Spotify
-- Todo List
 - Time and Date
 
 **Hardcoded content**
