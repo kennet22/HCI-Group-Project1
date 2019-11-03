@@ -11,7 +11,6 @@ Goal: Develop a non-intrusive, informative bathroom appliance that will help eve
 - Joshua Acosta
   - Weather
 - Terran King
-  - Todo list
   - Music player
 - Kennet Thurman
   - Time and date
@@ -51,6 +50,6 @@ Goal: Develop a non-intrusive, informative bathroom appliance that will help eve
 
 **Gif:**
 
-![giph](https://media.giphy.com/media/QYvPxbLEopSeZqZcGu/giphy.gif)
+![gif](https://media.giphy.com/media/QYvPxbLEopSeZqZcGu/giphy.gif)
 
 
