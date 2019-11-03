@@ -1,6 +1,6 @@
 # Smart Mirror
 
-Goal: Develop a non-intrusive, informative bathroom appliance that will help everyone prepare for the day or stay in the loop!
+Goal: Develop a simple and informative bathroom appliance that will help everyone prepare for the day or stay in the loop!
 
 **Group 5 Team members:**
 - Logan Powers
