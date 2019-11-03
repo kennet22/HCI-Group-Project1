@@ -19,13 +19,13 @@ Goal: Develop a non-intrusive, informative bathroom appliance that will help eve
   - Trending on twitter
   - Created UI
 
-**Implemented APIs**
+**Implemented APIs:**
 - Weather
 - News
 - Spotify
 - Time and Date
 
-**Hardcoded content**
+**Hardcoded content:**
 - Twitter Feed
 - Quotes
 
@@ -36,21 +36,25 @@ Goal: Develop a non-intrusive, informative bathroom appliance that will help eve
 
 
 
-**Prototype UI**
+**Prototype UI:**
 - Features desired widgets with simplistic design
 
 ![Interface](https://github.com/kennet22/HCI-Group-Project1/blob/master/interfaceV1.jpg?raw=true)
 
-**Production UI**
+**Production UI:**
 - Informative widgets
 - Clean interface
 - Toolbar approach
 
 ![UI](https://github.com/kennet22/HCI-Group-Project1/blob/master/baseScreen.png?raw=true)
 
-**Click Event**
+**Click Event:**
 - Button highlights green when pressed
 - Window opens containing widget details
-- When a new widget is open, other widges are disabled to reduce clutter
+- When a new widget is open, other widgets are closed to reduce clutter
 
 ![openMusic](https://github.com/kennet22/HCI-Group-Project1/blob/master/musicOpen.png?raw=true)
+
+**Giph:**
+
+![giph](https://media.giphy.com/media/QYvPxbLEopSeZqZcGu/giphy.gif)
