@@ -1,6 +1,4 @@
-# P1.5
-
-**Smart Mirror**
+# Smart Mirror
 
 Goal: Develop a non-intrusive, informative bathroom appliance that will help everyone prepare for the day or stay in the loop!
 
