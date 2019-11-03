@@ -9,7 +9,6 @@ Goal: Develop a non-intrusive, informative bathroom appliance that will help eve
   - News Feed
   - Presentation Setup
 - Joshua Acosta
-  - Quote generator
   - Weather
 - Terran King
   - Todo list
@@ -17,6 +16,7 @@ Goal: Develop a non-intrusive, informative bathroom appliance that will help eve
 - Kennet Thurman
   - Time and date
   - Trending on twitter
+  - Quotes
   - Created UI
 
 **Implemented APIs:**
