@@ -45,4 +45,7 @@ Goal: Develop a non-intrusive, informative bathroom appliance that will help eve
 ![Interface](https://github.com/kennet22/HCI-Group-Project1/blob/master/interfaceV1.jpg?raw=true)
 
 **Production UI**
-![UI]()
+![UI](https://github.com/kennet22/HCI-Group-Project1/blob/master/baseScreen.png?raw=true)
+
+**Click Event**
+![openMusic](https://github.com/kennet22/HCI-Group-Project1/blob/master/musicOpen.png?raw=true)
