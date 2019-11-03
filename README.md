@@ -57,4 +57,4 @@ Goal: Develop a non-intrusive, informative bathroom appliance that will help eve
 
 **Giph:**
 
-![giph](https://media.giphy.com/media/QYvPxbLEopSeZqZcGu/giphy.gif)
+![giph] (https://media.giphy.com/media/QYvPxbLEopSeZqZcGu/giphy.gif)
