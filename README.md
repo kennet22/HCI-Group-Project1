@@ -37,13 +37,20 @@ Goal: Develop a non-intrusive, informative bathroom appliance that will help eve
 
 
 **Prototype UI**
+- Features desired widgets with simplistic design
 
 ![Interface](https://github.com/kennet22/HCI-Group-Project1/blob/master/interfaceV1.jpg?raw=true)
 
 **Production UI**
+- Informative widgets
+- Clean interface
+- Toolbar approach
 
 ![UI](https://github.com/kennet22/HCI-Group-Project1/blob/master/baseScreen.png?raw=true)
 
 **Click Event**
+- Button highlights green when pressed
+- Window opens containing widget details
+- When a new widget is open, other widges are disabled to reduce clutter
 
 ![openMusic](https://github.com/kennet22/HCI-Group-Project1/blob/master/musicOpen.png?raw=true)
