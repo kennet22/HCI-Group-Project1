@@ -1,4 +1,4 @@
-# HCI-Project-1
+# P1.5
 
 **Smart Mirror**
 
