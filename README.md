@@ -25,15 +25,9 @@ Goal: Develop a non-intrusive, informative bathroom appliance that will help eve
 - Spotify
 - Time and Date
 
-**Hardcoded content:**
+**Dummy Data:**
 - Twitter Feed
 - Quotes
-
-
-**Project Details:**
-- Uses p5.js
-- Camera mirror emulation
-
 
 
 **Prototype UI:**
